@@ -1,6 +1,6 @@
 # Movie Search App
 
-## Video Demo: https://youtu.be/oioRrSSrhww
+## Video Demo: [![Movie app Demo](https://i.ytimg.com/vi/oioRrSSrhww/maxresdefault.jpg)](https://youtu.be/oioRrSSrhww)
 
 ## Overview
 

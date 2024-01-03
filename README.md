@@ -1,6 +1,9 @@
 # Movie Search App
 
-## Video Demo: [![Movie app Demo](https://i.ytimg.com/vi/oioRrSSrhww/maxresdefault.jpg)](https://youtu.be/oioRrSSrhww)
+## Video Demo: 
+
+[![Movie app Demo](https://i.ytimg.com/vi/oioRrSSrhww/maxresdefault.jpg)](https://youtu.be/oioRrSSrhww)
+
 
 ## Overview
 
@@ -43,3 +46,6 @@ This support module encapsulates crucial functionalities utilized by `movie_app.
 3. Run the application using `python movie_app.py`.
 
 
+## License
+
+This project is licensed under the MIT License.
